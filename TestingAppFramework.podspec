@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "TestingAppFramework"
-    s.version      = "1.0.0"
+    s.version      = "3.0.0"
     s.summary      = "TestingApp: TestingAppFramework"
     s.description  = "Add long description of the pod here. what it does. Add long description of the pod here. what it does."
     s.homepage     = "https://github.com/shivamRapipay/TestingAppFramework"
