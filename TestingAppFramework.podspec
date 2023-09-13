@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "TestingAppFramework"
-    s.version      = "5.0.0"
+    s.version      = "6.0.0"
     s.summary      = "TestingApp: TestingAppFramework"
     s.description  = "Add long description of the pod here. what it does. Add long description of the pod here. what it does."
     s.homepage     = "https://github.com/shivamRapipay/TestingAppFramework"
@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
     s.platform = :ios, '9.0'
     s.swift_version = "5.0"
     s.ios.deployment_target  = '16.2'
-    s.dependency = 'AFNetworking', "~> 1.0'
+    s.dependency 'SwiftyJSON', '~> 5.0'
 end
