@@ -7,9 +7,9 @@
 
 import Foundation
 
-public class functionTest() {
+public static class functionTest() {
     
-    public func abcd() {
+    public static func abcd() {
         print("abcd..........")
     }
     private func efgh() {
